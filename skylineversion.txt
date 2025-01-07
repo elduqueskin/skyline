@@ -1,1 +1,1 @@
-2.2#https://raw.githubusercontent.com/elduqueskin/skyline/refs/heads/main/Skyline.ipk
+2.3#https://raw.githubusercontent.com/elduqueskin/skyline/refs/heads/main/Skyline.ipk
